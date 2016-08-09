@@ -9,8 +9,10 @@ Welcome to vela's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   项目管理/基本项目流程
+   质量控制/测试体系
 
 
 Indices and tables
