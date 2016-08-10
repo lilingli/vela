@@ -34,7 +34,7 @@ vela是一个项目管理和质量控制相关文档管理项目，用来管理Q
 安装PyPI
 ------
 
-如果没有安装过安装PyPI，根据`PyPI Installation <https://pip.pypa.io/en/latest/installing/>`_ 的内容安装Pip。
+如果没有安装过安装PyPI，根据 `PyPI Installation <https://pip.pypa.io/en/latest/installing/>`_ 的内容安装Pip。
 
 安装Sphinx
 ---------
