@@ -13,6 +13,7 @@ Contents:
 
    项目管理/基本项目流程
    质量控制/测试体系
+   质量控制/QA工作规划
 
 
 Indices and tables
