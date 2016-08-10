@@ -29,7 +29,7 @@ vela是一个项目管理和质量控制相关文档管理项目，用来管理Q
 安装Python
 ---------
 
-如果没有安装过Python，从`Python Download <https://www.python.org/downloads/>`_ 页面下载并安装Python。
+如果没有安装过Python，从 `Python Download <https://www.python.org/downloads/>`_ 页面下载并安装Python。
 
 安装PyPI
 ------
