@@ -8,12 +8,21 @@ Welcome to vela's documentation!
 
 Contents:
 
-.. toctree::
-   :maxdepth: 1
+项目管理
+--------
+    .. toctree::
+        :maxdepth: 1
 
-   项目管理/基本项目流程
-   质量控制/测试体系
-   质量控制/QA工作规划
+        项目管理/基本项目流程
+
+质量保障
+--------
+    .. toctree::
+        :maxdepth: 1
+
+        质量保障/测试体系
+        质量保障/QA工作规划
+        质量保障/QA工作计划
 
 
 Indices and tables
